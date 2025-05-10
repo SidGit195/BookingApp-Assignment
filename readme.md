@@ -85,3 +85,13 @@ This API is configured for deployment on Vercel with the following:
 - bookedAt: Date
 
 
+## ScreenShots
+![Screenshot (598)](https://github.com/user-attachments/assets/087dfe82-7728-40b9-8a33-d85c7c4b7c5f)
+![Screenshot (599)](https://github.com/user-attachments/assets/61833bb3-ff78-4745-851c-e96c07240aef)
+![Screenshot (600)](https://github.com/user-attachments/assets/ced1038d-fdfe-4778-9338-b999ac581324)
+![Screenshot (601)](https://github.com/user-attachments/assets/6e32b754-97bd-443f-96c2-e2368f6c45a1)
+![Screenshot (602)](https://github.com/user-attachments/assets/4019f103-34d6-4ff2-8c3a-2242c4bd2cad)
+![Screenshot (603)](https://github.com/user-attachments/assets/9a9a0176-c846-4bc0-9cc4-b4b03782233e)
+![Screenshot (604)](https://github.com/user-attachments/assets/9bf84045-4d76-49d3-a7ab-6c21423c488c)
+
+* Happy coding! 
